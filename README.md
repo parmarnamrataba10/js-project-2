@@ -1,4 +1,5 @@
 
+video:-https://drive.google.com/file/d/1lOs4Z7eN-fSFDR_UTEjuGLXA1t4SXrqP/view?usp=drive_link
 
 QUESTION 21 :- multiplication tables :-https://codepen.io/editor/Namrataba-Parmar/pen/01a05fe8-4d1f-71dd-a86d-b5e446e38ce5
 
